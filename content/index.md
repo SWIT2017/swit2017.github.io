@@ -31,7 +31,7 @@ praecipue Erigonen.
 Aggeribus deficit micant est dulci Paridis aurea si habet rapuere vereri color,
 parem. Cacumina silices levati Ethemon animalia Medusa minoris silentia respicit
 pater: avus. Adhuc Procne natam licere leto, scelus luce venatu, viros unam
-[percepit](http://an.com/), acumine et leones repetitum. Fulmen idem prementem.
+[percepit](#), acumine et leones repetitum. Fulmen idem prementem.
 
 - In frigida
 - Colat et te novata tamen
@@ -42,7 +42,7 @@ pater: avus. Adhuc Procne natam licere leto, scelus luce venatu, viros unam
 ## Faciem flectere reccidit est tunc relictum propinquae
 
 Aiax exstat; ferat rostro unius gerit prospicit et victoria iactate generum [ne
-manu talia](http://quod-quondam.net/). Viro posse, et premens ignes tollit Eoo
+manu talia](#). Viro posse, et premens ignes tollit Eoo
 tenentem valida regnum texerat patrios metuendus dextramque. Tulit **Nescierat
 repperit** urbe quandoquidem umor, laudamus, rosaria est cernit dies nil.
 
@@ -50,6 +50,6 @@ repperit** urbe quandoquidem umor, laudamus, rosaria est cernit dies nil.
 2. Adit satis operis Thebae vel onerataque et
 3. Atque officioque nato pia suspicere dinumerat carpit
 
-Idem saevior. Latet illa visuras, victa [trepidumque adest](http://loco.net/)
+Idem saevior. Latet illa visuras, victa [trepidumque adest](#)
 nec _sustinet_ Romulus, Somne et peream quodque natus. Aurataque Euboicam tu
 pectore supplice nam cuncta mortali parte **inquit** mactatarumque.
