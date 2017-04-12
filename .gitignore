@@ -3,3 +3,4 @@ output
 tmp
 *.log
 *.diff
+.sass-cache

@@ -9,6 +9,17 @@ compile '/**/*.md' do
   layout '/default.*'
 end
 
+compile '/styles/main.scss' do
+  filter :sass, syntax: :scss, style: :compressed
+  filter :autoprefixer, browsers: [
+    '> 1%',
+    'last 2 versions',
+    'Firefox ESR',
+    'iOS >= 8',
+  ]
+  write item.identifier.without_ext + '.css'
+end
+
 route '/**/*.{html,md}' do
   if item.identifier =~ '/index.*'
     '/index.html'
