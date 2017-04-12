@@ -19,6 +19,7 @@ compile '/styles/main.scss' do
   ]
   write item.identifier.without_ext + '.css'
 end
+ignore '/**/*.scss'
 
 route '/**/*.{html,md}' do
   if item.identifier =~ '/index.*'
