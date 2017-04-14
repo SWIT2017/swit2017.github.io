@@ -9,6 +9,13 @@
   <header>
     <h1>Semantic Web technologies for the Internet of Things</h1>
     <p>SWIT2017 – ISWC2017 workshop</p>
+    <nav>
+      <ul>
+        <% main_pages.each do |page| %>
+        <li<%= @item==page ? ' class="current"': '' %>><%= link_to page[:title], page %></li>
+        <% end %>
+      </ul>
+    </nav>
   </header>
   <main>
     <%= yield %>
