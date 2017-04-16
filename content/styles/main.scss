@@ -9,20 +9,22 @@ $gutter: 20px;
 
 html {
   background: $color-background url(../images/background.jpg) top center / cover no-repeat fixed;
+  height: 100%;
 }
 
 body {
   font: 12pt/1.5 "Titillium Web", sans-serif;
 
   max-width: 780px - 2 * $gutter;
-  min-height: 400px;
+  min-height: 100%;
   margin: 0 auto;
-  padding: 10px $gutter 20px;
+  padding: 20px $gutter;
   background: $color-body;
+  box-sizing: border-box;
 }
 
 header {
-  margin: 1em (-$gutter);
+  margin: 0 (-$gutter) 2em;
   padding: 10px $gutter;
   background: $color-background;
   position: relative;
