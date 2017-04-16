@@ -1,1 +1,128 @@
-@import "reset.scss"
+@import "reset.scss";
+
+$color-background: #485665;
+$color-body: #f4f2f2;
+$color-text: darken($color-background, 10%);
+$color-highlight: #9e2b25;
+
+$gutter: 20px;
+
+html {
+  background: $color-background;
+}
+
+body {
+  font: 13pt/1.5 "Titillium Web", sans-serif;
+
+  max-width: 800px - 2 * $gutter;
+  margin: 0 auto;
+  padding: 10px $gutter 20px;
+  background: $color-body;
+}
+
+header {
+  margin: 1em (-$gutter);
+  padding: 10px $gutter;
+  background: $color-background;
+
+  * {
+    color: $color-body;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-style: italic;
+  }
+
+  nav {
+    margin: .5em 0 0;
+    li {
+      display: inline;
+      padding: 0 .5em;
+
+
+      &.current, &:hover {
+        background: $color-body;
+      }
+      &.current {
+        a {
+          font-weight: bold;
+          color: $color-background;
+        }
+      }
+      &:hover {
+        a {
+          color: $color-highlight;
+        }
+      }
+    }
+  }
+}
+
+main {
+  color: $color-text;
+
+  a {
+    color: $color-background;
+    font-weight: bold;
+
+    &:hover {
+      color: $color-highlight;
+    }
+  }
+
+  h1 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: $color-highlight;
+
+    + h2 {
+      margin-top: .5em;
+    }
+  }
+
+  h2 {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 1em 0 .25em;
+  }
+
+  p {
+    + p {
+      margin-top: .5em;
+    }
+  }
+
+  ol, ul {
+    margin: .5em 0;
+  }
+
+  ul {
+    li {
+      &:before {
+        content: "■";
+        margin-right: 1.5ex;
+      }
+    }
+  }
+
+  ol {
+    counter-reset: ol;
+    li {
+      &:before {
+      counter-increment: ol;
+      content: counter(ol) ".";
+      margin-right: 1.5ex;
+      }
+    }
+  }
+}
