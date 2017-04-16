@@ -1,6 +1,6 @@
 @import "reset.scss";
 
-$color-background: #485665;
+$color-background: #09668d;
 $color-body: #f4f2f2;
 $color-text: darken($color-background, 10%);
 $color-highlight: #9e2b25;
@@ -8,13 +8,13 @@ $color-highlight: #9e2b25;
 $gutter: 20px;
 
 html {
-  background: $color-background;
+  background: $color-background url(../images/background.jpg) top center / cover no-repeat fixed;
 }
 
 body {
   font: 13pt/1.5 "Titillium Web", sans-serif;
 
-  max-width: 800px - 2 * $gutter;
+  max-width: 780px - 2 * $gutter;
   margin: 0 auto;
   padding: 10px $gutter 20px;
   background: $color-body;
@@ -24,9 +24,28 @@ header {
   margin: 1em (-$gutter);
   padding: 10px $gutter;
   background: $color-background;
+  position: relative;
+
+  // transparent background image
+  &::after {
+    content: "";
+    background: $color-background url(../images/background.jpg) top center / cover;
+    opacity: 0.4;
+
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 1;
+  }
 
   * {
     color: $color-body;
+  }
+  > * {
+    z-index: 10;
+    position: relative;
   }
 
   a {
