@@ -12,9 +12,10 @@ html {
 }
 
 body {
-  font: 13pt/1.5 "Titillium Web", sans-serif;
+  font: 12pt/1.5 "Titillium Web", sans-serif;
 
   max-width: 780px - 2 * $gutter;
+  min-height: 400px;
   margin: 0 auto;
   padding: 10px $gutter 20px;
   background: $color-body;
@@ -99,6 +100,13 @@ main {
     }
   }
 
+  strong {
+    font-weight: bold;
+  }
+  em {
+    font-style: italic;
+  }
+
   h1 {
     font-weight: bold;
     font-size: 1.5em;
@@ -129,7 +137,7 @@ main {
     li {
       &:before {
         content: "■";
-        margin-right: 1.5ex;
+        margin-right: 1ex;
       }
     }
   }

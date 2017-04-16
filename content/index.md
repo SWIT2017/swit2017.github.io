@@ -2,55 +2,23 @@
 title: Home
 order: 0
 ---
-# Offensa murmura hic coniunx agros
+# Tackling IoT challenges with semantic technologies
 
-## Retro annorum quid docta iacuere Chromis amens
+## Challenges
+The application and use of IoT solutions is facing _technological_, _societal_ and _business_ challenges.
+<br>
+Some of the main challenges are:
 
-Lorem markdownum dextras Telamon se secretos est communis unco prensam rudis,
-fuit! Proelia fuerat spectabere _pondere Clitorio_, ea victor dixerat dignos
-Heliadum. Esse natis? Nec duas etiam. Longa rami silvis venit; natorum urna dum
-Priamidas inter, ulmo at placeat.
+- **Connectivity:** A heterogeneous landscape of wired and wireless connectivity standards are required to enable different application needs. This increases the implementation effort and complexity of solutions.
+- **Sensing and monitoring:** Innovative ways to sense, observe and deliver information from the physical world to the IoT system.
+- **Information models:** Being able to translate the physical world into a format that can be understood and interpreted by the IoT applications. This relates to both existing datasets and streaming data.
+- **Adaptability and scalability:** IoT requires a change in the way organisations design and augment their industrial systems. IoT systems must be adaptive and scalable through software or added functionality that integrates with the overall solution.
+- **Plan for maintenance and updates:** IoT components need to be built by already planing for future maintenance and updates. Adequate system evolution can be guaranteed only trough continuous modification and maintenance to meet changing requirements.
+- **Flexibility:** When developing and deploying an industrial system, it is not enough to simply think about today's needs or  immediate future needs. It is necessary to build on open, integrated hardware and software platforms, to be capable of constantly adapting to changing requirements.
 
-Paludibus pectore, et septem conponere senior, aut letalis, nunc crimina in
-_dolens_; egerere quae. Fila tangit, nil pia iacens fulgure et triumphos
-curvamine nato. Creditus matris; aderisque accensis chordas sis faciem interea.
-**Nascitur** adfusaeque hospite bracchia, Achaidos!
+## About SWIT2017
 
-## Ipsum Echidnae
-
-Di sensimus alii sociare illam adfectu et fusile tenuit virilem, ultima fuit
-domus. Matertera quemque sanguine; dextro rosaria quatiatur. Sui mare terra
-praecipue Erigonen.
-
-1. Non usa opto cunctosque quam geminos
-2. Rhoetus posse saevi pectore relicta adclinavit scilicet
-3. Molibar progenitore Alba
-4. Perfida aut remis bicoloribus corpus commune
-
-## Vacant mihi et nudae
-
-Aggeribus deficit micant est dulci Paridis aurea si habet rapuere vereri color,
-parem. Cacumina silices levati Ethemon animalia Medusa minoris silentia respicit
-pater: avus. Adhuc Procne natam licere leto, scelus luce venatu, viros unam
-[percepit](#), acumine et leones repetitum. Fulmen idem prementem.
-
-- In frigida
-- Colat et te novata tamen
-- Pontus ut Aetne amantem vestemque
-- Nec terque corpora montano
-- Invia ut dedecus superis ingratumque gerit sperat
-
-## Faciem flectere reccidit est tunc relictum propinquae
-
-Aiax exstat; ferat rostro unius gerit prospicit et victoria iactate generum [ne
-manu talia](#). Viro posse, et premens ignes tollit Eoo
-tenentem valida regnum texerat patrios metuendus dextramque. Tulit **Nescierat
-repperit** urbe quandoquidem umor, laudamus, rosaria est cernit dies nil.
-
-1. Puer ut sola ora fieri indigenae spatiis
-2. Adit satis operis Thebae vel onerataque et
-3. Atque officioque nato pia suspicere dinumerat carpit
-
-Idem saevior. Latet illa visuras, victa [trepidumque adest](#)
-nec _sustinet_ Romulus, Somne et peream quodque natus. Aurataque Euboicam tu
-pectore supplice nam cuncta mortali parte **inquit** mactatarumque.
+With this workshop, we aim to discover new ways to embrace the opportunities that Semantic Web technologies offer in terms of data modeling, integration, processing, and provisioning as well as in terms of developing flexible and intelligent system solutions. 
+We want to challenge researchers towards developing integrated description and implementation approaches through both paper submissions and interactive on-site discussion and dialog. 
+In particular we are looking for description approaches, formal models, implementation solutions, use cases, and applications that support a IoT solutions based on Semantic Web technologies.
+See our [submission topics](/topics/) for more details.
