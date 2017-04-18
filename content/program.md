@@ -16,7 +16,7 @@ Where: Co-located with [International Semantic Web Conference (ISWC)](https://is
 
 Previous Edition:
 
-* SWIT 2016: https://swit.smartsdk.eu/
+* [SWIT 2016 co-located with ISWC 2016](https://swit.smartsdk.eu/)
 
 
 
