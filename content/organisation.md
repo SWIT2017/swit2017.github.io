@@ -9,8 +9,8 @@ title: Organisation
 
 
 ![Image of Maria Maleshkova](https://swit2017.github.io/images/maria.png)
-![Image of Ruben Verborgh](https://swit2017.github.io/images/ruben.png)
-![Image of Amelie](https://swit2017.github.io/images/amelie.png)
+![Image of Ruben Verborgh](https://swit2017.github.io/images/ruben.jpg)
+![Image of Amelie](https://swit2017.github.io//images/amelie.jpg)
 
 
 Dr. Maria Maleshkova is a postdoctoral researcher at the Karlsruhe Service Research Institute (KSRI) and the Institute of Applied Informatics and Formal DescriptionMethods (AIFB) at the Karlsruhe Institute of Technology. Her research work covers Web of Things (WoT) and semantics-based data integration topics, as well as work in the area of the semantic description of Web APIs, RESTful services and their joint use with Linked Data. Prior to that she was a Research Associate and a PhD student at the KnowledgeMedia Institute (KMi) at the Open University, where she worked on projects in the domain of SOA and Web Services.
