@@ -4,7 +4,7 @@ order: 20
 ---
 # Submission
 
-Paper submission deadline: 21 July 2017 
+Paper Submission Deadline: 21 July 2017 
 
 Notification Author: 24 August 2017
 
