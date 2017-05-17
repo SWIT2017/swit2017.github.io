@@ -35,3 +35,4 @@ Dr. Amelie Gyrard is a post-doc researcher at Ecole des Mines de Saint- Etienne,
 * Pieter Colpaert, Ghent University – imec, Belgium
 * Pramod Anantaram, Kno.e.sis Center,Wright State University, USA
 * Marta Sabou, Vienna University of Technology, Austria
+* Xiang Su, University of Oulu, Finland
