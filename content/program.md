@@ -11,8 +11,8 @@ When: Saturday October 21st 2017 - Afternoon
 Where: Co-located with [International Semantic Web Conference (ISWC)](https://iswc2017.semanticweb.org/) 2017, Vienna, Austria
 
 
-
-
+#add flyer flyerWorkshopISWC2017-V2.jpg
+[![Image Alt Text](./images/flyerWorkshopISWC2017-V2.jpg)](./images/flyerWorkshopISWC2017-V2.jpg)
 
 Previous Edition:
 
