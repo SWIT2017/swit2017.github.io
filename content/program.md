@@ -19,6 +19,7 @@ Previous Edition:
 * [SWIT 2016 co-located with ISWC 2016](https://swit.smartsdk.eu/)
 
 You might be interested by the tutorial in the morning on the same topic:
+
 [Semantic Web meets Internet of Things and Web of Things](http://semantic-web-of-things.appspot.com/?p=ISWC2017Tutorial) 2017, Vienna, Austria
 
 
