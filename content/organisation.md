@@ -8,7 +8,7 @@ title: Organisation
 * Amelie Gyrard - Ecole des Mines de Saint-Etienne, France
 
 
-[![Image Alt Text](./images/maria.jpg)]()
+[![Image Alt Text](./images/maria.jpg =100x100)]()
 [![Image Alt Text](./images/ruben.jpg)]()
 [![Image Alt Text](./images/amelie.png)]()
 
