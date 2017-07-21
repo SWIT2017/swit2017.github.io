@@ -7,8 +7,8 @@ title: Organisation
 * Ruben Verborgh - Ghent University – imec, Belgium
 * Amelie Gyrard - Ecole des Mines de Saint-Etienne, France
 
-
-[![Image Alt Text](./images/maria.jpg =100x100)]()
+<img src="./images/maria.jpg" alt="Drawing" style="width: 200px; height: 200px;"/>
+[![Image Alt Text](./images/maria.jpg)]()
 [![Image Alt Text](./images/ruben.jpg)]()
 [![Image Alt Text](./images/amelie.png)]()
 
