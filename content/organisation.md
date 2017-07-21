@@ -7,6 +7,9 @@ title: Organisation
 * Ruben Verborgh - Ghent University – imec, Belgium
 * Amelie Gyrard - Ecole des Mines de Saint-Etienne, France
 
+
+
+
 Dr. Maria Maleshkova is a postdoctoral researcher at the Karlsruhe Service Research Institute (KSRI) and the Institute of Applied Informatics and Formal Description Methods (AIFB) at the Karlsruhe Institute of Technology. Her research work covers Web of Things (WoT) and semantics-based data integration topics, as well as work in the area of the semantic description of Web APIs, RESTful services and their joint use with Linked Data. Prior to that she was a Research Associate and a PhD student at the Knowledge Media Institute (KMi) at the Open University, where she worked on projects in the domain of SOA and Web Services.
 
 Ruben Verborgh is a researcher in semantic hypermedia at Ghent University - imec, Belgium and a postdoctoral fellow of the Research Foundation Flanders. He explores the connection between Semantic Web technologies and the Web’s architectural properties, with the ultimate goal of building more intelligent clients. Along the way, he became fascinated by Linked Data, REST/hypermedia, Web APIs, and related technologies. He’s a co-author of two books on Linked Data, and has contributed to more than 200 publications for international conferences and journals on Web-related topics.
