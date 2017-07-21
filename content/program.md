@@ -20,6 +20,6 @@ Previous Edition:
 
 You might be interested by the tutorial in the morning on the same topic:
 
-[Semantic Web meets Internet of Things and Web of Things](http://semantic-web-of-things.appspot.com/?p=ISWC2017Tutorial) 2017, Vienna, Austria
+[Semantic Web meets Internet of Things and Web of Things](http://semantic-web-of-things.appspot.com/?p=ISWC2017Tutorial) Tutorial at ISWC 2017, Vienna, Austria
 
 
