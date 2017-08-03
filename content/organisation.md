@@ -18,14 +18,11 @@ Dr. Amelie Gyrard is a post-doc researcher at Ecole des Mines de Saint- Etienne,
 
 # Program Committee
 * Kjetil Kjernsmo, University of Oslo, Norway
-* Andreas Harth, KIT, Germany
 * Jacek Kopecký, University of Portsmouth, UK
 * Peter Haase, metaphacts, Germany
 * María-Esther Vidal, Universidad Simón Bolívar
 * Tobias Weller, KIT, Germany
 * Erik Wilde, UC Berkeley, USA
-* Carlos Pedrinaci, KMi, Open University, UK
-* Pedro Szekely, University of Southern California, USA
 * Jürgen Umbrich, DERI Galway, Ireland
 * Armin Haller, CSIRO, Australia
 * Lionel Médini, Claude Bernard Lyon University, France
@@ -39,3 +36,4 @@ Dr. Amelie Gyrard is a post-doc researcher at Ecole des Mines de Saint- Etienne,
 * Pramod Anantaram, Kno.e.sis Center,Wright State University, USA
 * Marta Sabou, Vienna University of Technology, Austria
 * Xiang Su, University of Oulu, Finland
+* Stefan Schulte, University of Vienna
