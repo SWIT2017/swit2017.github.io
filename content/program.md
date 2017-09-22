@@ -11,9 +11,11 @@ Where: Co-located with [International Semantic Web Conference (ISWC)](https://is
 
 # Draft Agenda
 
-Keynote: To appear
+## Keynote: ##
 
-** Paper session 1: **
+To appear
+
+## Paper session 1: ##
 
  Intelligent building using hybrid Inference with building automation system to improve energy efficiency
 
@@ -23,7 +25,7 @@ Keynote: To appear
  
  
 
-** Paper session 2: **
+## Paper session 2: ##
 
  Attributing Recognised Activities in Multi-Person Households Using Ontology-Based Finite State Machines
 
