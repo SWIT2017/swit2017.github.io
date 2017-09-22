@@ -32,9 +32,6 @@ Paper session 2:
 * Capturing the contributions of the semantic web to the IoT: a unifying vision (Extended abstract)
 
 
-[![Image Alt Text](./images/flyerWorkshopISWC2017-V2.jpg)]()
-
-
 # Proceedings 
 
 Proceedings: http://ceur-ws.org/Vol-1930/
