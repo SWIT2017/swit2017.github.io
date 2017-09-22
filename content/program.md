@@ -15,21 +15,23 @@ Keynote:
 
 Paper session 1:
 
-- Intelligent building using hybrid Inference with building automation system to improve energy efficiency
+ Intelligent building using hybrid Inference with building automation system to improve energy efficiency
 
-- Exposing Internet of Things Devices via REST and Linked Data Interfaces
+ Exposing Internet of Things Devices via REST and Linked Data Interfaces
 
-- Oh, wait, reasoning was wrong! Let's replay
+ Oh, wait, reasoning was wrong! Let's replay
+ 
+ 
 
 Paper session 2:
 
-- Attributing Recognised Activities in Multi-Person Households Using Ontology-Based Finite State Machines
+ Attributing Recognised Activities in Multi-Person Households Using Ontology-Based Finite State Machines
 
-- Utilizing IoT Devices for Monitoring and Adjusting Clinical Pathway Exercises
+ Utilizing IoT Devices for Monitoring and Adjusting Clinical Pathway Exercises
 
-- Activity Duration Prediction of Workflows by using a Data Science Approach: Unveiling the Advantage of Semantics
+ Activity Duration Prediction of Workflows by using a Data Science Approach: Unveiling the Advantage of Semantics
 
-- Capturing the contributions of the semantic web to the IoT: a unifying vision (Extended abstract)
+ Capturing the contributions of the semantic web to the IoT: a unifying vision (Extended abstract)
 
 
 # Proceedings 
