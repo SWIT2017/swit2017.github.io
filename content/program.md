@@ -38,7 +38,7 @@ To appear
 
 # Proceedings 
 
-[Proceedings are here] (http://ceur-ws.org/Vol-1930/)
+[Proceedings are here](http://ceur-ws.org/Vol-1930/)
 
 
 # ISWC 2017 Tutorial: SWoTIoT
