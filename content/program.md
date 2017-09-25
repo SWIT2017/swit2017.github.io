@@ -11,29 +11,25 @@ Where: Co-located with [International Semantic Web Conference (ISWC)](https://is
 
 # Draft Agenda
 
-## Keynote: ##
+14:00-14:05 Welcome
 
-To appear
+14:05-14:25 Intelligent building using hybrid Inference with building automation system to improve energy efficiency
 
-## Paper session 1: ##
+14:25-14:45 Exposing Internet of Things Devices via REST and Linked Data Interfaces
 
- Intelligent building using hybrid Inference with building automation system to improve energy efficiency
+14:45-15:05 Oh, wait, reasoning was wrong! Let’s replay
 
- Exposing Internet of Things Devices via REST and Linked Data Interfaces
+15:05 -15:20 Capturing the contributions of the semantic web to the IoT: a unifying vision (Extended abstract)
 
- Oh, wait, reasoning was wrong! Let's replay
- 
- 
+15:20-16:00 Coffee
 
-## Paper session 2: ##
+16:00-16:20 Attributing Recognised Activities in Multi-Person Households Using Ontology-Based Finite State Machines
 
- Attributing Recognised Activities in Multi-Person Households Using Ontology-Based Finite State Machines
+16:20-16:40 Utilizing IoT Devices for Monitoring and Adjusting Clinical Pathway Exercises
 
- Utilizing IoT Devices for Monitoring and Adjusting Clinical Pathway Exercises
+16:40-17:00 Activity Duration Prediction of Workflows by using a Data Science Approach: Unveiling the Advantage of Semantics
 
- Activity Duration Prediction of Workflows by using a Data Science Approach: Unveiling the Advantage of Semantics
-
- Capturing the contributions of the semantic web to the IoT: a unifying vision (Extended abstract)
+17:00 -17:20 Final Discussion and wrap up 
 
 
 # Proceedings 
