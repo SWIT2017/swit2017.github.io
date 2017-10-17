@@ -45,7 +45,7 @@ Where: Co-located with [International Semantic Web Conference (ISWC)](https://is
 [Semantic Web meets Internet of Things and Web of Things (SWoTIoT)](http://semantic-web-of-things.appspot.com/?p=ISWC2017Tutorial) Tutorial at ISWC 2017, Vienna, Austria
 
 ## SmartIoT 2018 Workshop at AAAI 2018
-* Submit your work to another workshop next year (Deadline 13 October 2017)
+* Submit your work to another workshop next year (Extended Deadline 12 November 2017)
 
  [SmartIoT 2018 at AAAI 2018](http://wiki.knoesis.org/index.php/SmartIoTWorkshopAAAI2018)
 
